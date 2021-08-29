@@ -7,6 +7,10 @@ The two-stage Heckman Selection model was estimated using Stata, while the prepr
 
 The replication data is consisted of:
 
-*** estimation_data_wtypev.xlsx -- this file contains already preprocessed data and can be directly used to reproduce the results with model_estimation.do
+*** estimation_data_0401.xlsx -- this file contains already preprocessed data and can be directly used to reproduce the main results with model_estimation.do
+
+*** estimation_data_0401_euw.xlsx -- this file contains already preprocessed data and can be directly used to reproduce the robustness results for EU-weighted model with model_estimation.do
+
+*** estimation_data_0501.xlsx -- this file contains already preprocessed data and can be directly used to reproduce the robustness results for over_20% vaccinated population with model_estimation.do
 
 *** Raw data folder contains files used in the preprocessing phase.
